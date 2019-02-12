@@ -1,3 +1,3 @@
 var recipes = {
-  flour
+  flour: '2'
 }
